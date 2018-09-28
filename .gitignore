@@ -1,0 +1,10 @@
+.*
+*~
+!.gitignore
+
+# ignore build
+Bio-Tools-Analysis-DNA-ESEfinder-*
+
+# ignore text editors stuff
+.emacs.*
+*.komodoproject
